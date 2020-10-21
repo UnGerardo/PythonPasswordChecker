@@ -3,3 +3,4 @@ This project made with python uses the [haveibeenpwned API](https://haveibeenpwn
 All data is sourced from [haveibeenpwned.com](https://haveibeenpwned.com/)
 
 ## GIF Showcase
+<img src='https://github.com/UnGerardo/PythonPasswordChecker/blob/main/PythonPasswordChecker.gif' width='' alt='Video Walkthrough' />
